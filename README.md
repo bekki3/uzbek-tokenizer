@@ -29,7 +29,7 @@ This project demonstrates:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/uzbek-tokenizer.git
+git clone https://github.com/bekki3/uzbek-tokenizer.git
 cd uzbek-tokenizer
 pip install -r requirements.txt
 ```
@@ -37,3 +37,8 @@ pip install -r requirements.txt
 ## Setup steps
 
 Download Uzbek corpora from [Leipzig Wortschatz](https://wortschatz.uni-leipzig.de/en/download/Uzbek) as required in the list "FILES_UZ_CORPORA" and place them inside the "./raw_dataset" folder.
+Create "./processed_dataset" folder. We will use this folder's files for training a tokenizer.
+
+## Important
+
+Keep pushing the boundaries of Uzbek NLP! Every contribution, no matter how small, advances language technology and preserves cultural heritage.
