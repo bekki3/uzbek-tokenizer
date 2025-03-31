@@ -45,4 +45,4 @@ Thanks to [Tahrirchi](https://huggingface.co/tahrirchi) for the 40K Uzbek books,
 
 ## Important
 
-Keep pushing the boundaries of Uzbek NLP! Every contribution, no matter how small, advances language technology and preserves cultural heritage.
+Keep pushing the boundaries of Uzbek NLP! Every contribution, no matter how small, advances language technology and preserves Uzbek cultural heritage. Also, don't forget to leave a star.
