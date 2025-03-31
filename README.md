@@ -39,6 +39,10 @@ pip install -r requirements.txt
 Download Uzbek corpora from [Leipzig Wortschatz](https://wortschatz.uni-leipzig.de/en/download/Uzbek) as required in the list "FILES_UZ_CORPORA" and place them inside the "./raw_dataset" folder.
 Create "./processed_dataset" folder. We will use this folder's files for training a tokenizer.
 
+## Acknowledgments
+
+Thanks to [Tahrirchi](https://huggingface.co/tahrirchi) for the 40K Uzbek books, and the [Leipzig Corpora Collection](https://wortschatz.uni-leipzig.de/en/download/Uzbek) for their invaluable datasets.
+
 ## Important
 
 Keep pushing the boundaries of Uzbek NLP! Every contribution, no matter how small, advances language technology and preserves cultural heritage.
