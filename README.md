@@ -36,4 +36,4 @@ pip install -r requirements.txt
 
 ## Setup steps
 
-Download Uzbek corpora from [Leipzig Wortschatz](https://wortschatz.uni-leipzig.de/en/download/Uzbek) as required in the list "FILES_UZ_CORPORA".
+Download Uzbek corpora from [Leipzig Wortschatz](https://wortschatz.uni-leipzig.de/en/download/Uzbek) as required in the list "FILES_UZ_CORPORA" and place them inside the "./raw_dataset" folder.
